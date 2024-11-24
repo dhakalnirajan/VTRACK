@@ -1,4 +1,4 @@
-# VTrack: Vehicle Tracking System using GPS and GSM with Google Maps API and Cellular Network Firebase Docs
+# VTrack: Vehicle Tracking System with OpenStreetMaps API and Cellular Network Firebase Docs
 
 ### Purpose of this documentation file
 
@@ -8,13 +8,12 @@ To carefully curate and document the project's development process, the project'
 
 *To check (add checkmark) the following checkbox, add 'x' between the square brackets. Only check those values which are written, tested, verified and is ready to push to the GitHub repository.*
 
-- [ ] Fetch Firebase Database from the Google Cloud Platform.
-- [ ] Test the Database with random longitude and latitude values.
-- [ ] Build a GUI framework for the front-end of the application.
-- [ ] Connect the front-end with the Firebase Database for real-time data storage.
-- [ ] Connect the front-end with the Google Maps API for real-time data visualization.
-- [ ] Assemble the GPS module, GSM Module, ESP32, and the Arduino UNO for early testing.
-- [ ] Test the tracker module to check the real-time data collection.
+- [x] Fetch Firebase Database from the Google Cloud Platform.
+- [x] Test the Database with random longitude and latitude values.
+- [x] Build a GUI framework for the front-end of the application.
+- [x] Connect the front-end with the Firebase Database for real-time data storage.
+- [x] Connect the front-end with the OpenStreetMaps API for real-time data visualization.
+- [x] Test the front-end with the Firebase Database and OpenStreetMaps API.
 
 ### Questions for the Team on Why using Firebase
 

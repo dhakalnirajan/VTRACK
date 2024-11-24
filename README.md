@@ -33,4 +33,3 @@ Documentation for the VTrack project is divided into the following sections:
 1. Frontend Development
 2. Backend Development
 3. Database Management
-4. Hardware Development, Integration, and Testing
